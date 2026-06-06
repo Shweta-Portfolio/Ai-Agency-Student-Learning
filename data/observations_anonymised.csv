@@ -1,0 +1,74 @@
+student_id	session	school	year_group	subject	task_type	sen_flag	sen_type	used_ai_or_copied	agency_code	q1_ownership	q2_explainability	notes
+S001	1	school_b	7	computing	problem_solving	0	none	Y	2	2	1	Reread answer, changed subject-specific vocabulary
+S002	1	school_b	7	maths	calculation	0	none	N	3	2	1	No AI used â€” textbook only
+S003	1	school_b	8	science	explain_concept	1	dyslexia	N	1	2	1	Used notes from class
+S004	1	school_b	10	computing	problem_solving	1	autism	Y	2	2	0	Compared two AI responses briefly before choosing one
+S005	1	school_a	7	computing	problem_solving	1	adhd	Y	3	2	2	Questioned AI answer verbally, looked for second source
+S006	1	school_a	7	computing	explain_concept	0	none	Y	2	0	1	Reread answer, changed subject-specific vocabulary
+S007	1	school_a	8	maths	calculation	1	autism	Y	1	1	0	Opened ChatGPT, typed question, copied answer verbatim
+S008	1	school_a	8	maths	calculation	0	none	Y	1	1	0	No visible engagement with output before writing
+S009	1	school_a	8	science	definition_question	0	none	N	1	0	0	Asked peer for help, no AI
+S010	1	school_a	8	science	definition_question	0	none	Y	3	2	2	Identified error in AI output independently
+S011	1	school_a	9	science	definition_question	1	autism	Y	1	1	0	Did not check answer, submitted immediately
+S012	1	school_a	9	maths	calculation	0	none	Y	2	2	1	Reread answer, changed subject-specific vocabulary
+S013	1	school_a	9	computing	explain_concept	1	dyslexia	Y	1	2	0	Did not check answer, submitted immediately
+S014	1	school_a	11	computing	problem_solving	0	none	Y	1	2	1	Copied from phone directly
+S015	2	school_b	7	computing	problem_solving	1	adhd	Y	1	0	2	Opened ChatGPT, typed question, copied answer verbatim
+S016	2	school_b	7	maths	problem_solving	1	dyslexia_adhd	Y	2	1	1	Made minor edits to AI output
+S017	2	school_b	7	science	calculation	1	autism_adhd	Y	3	2	2	Asked observer if AI answer was correct before writing
+S018	2	school_b	8	maths	short_answer	0	none	N	1	0	0	No AI observed â€” worked independently
+S019	2	school_a	7	maths	calculation	1	autism_adhd	?	1	2	1	Looked at screen briefly, wrote without pausing
+S020	2	school_a	7	computing	explain_concept	1	autism_adhd	Y	3	2	2	Rewrote answer entirely in own words after reading AI output
+S021	2	school_a	7	maths	short_answer	0	none	N	1	0	1	Used notes from class
+S022	2	school_a	8	science	explain_concept	0	none	Y	1	2	0	Looked at screen briefly, wrote without pausing
+S023	2	school_a	8	maths	problem_solving	1	adhd	N	2	1	2	Used notes from class
+S024	2	school_a	8	science	explain_concept	1	dyslexia	N	1	0	1	No AI observed â€” worked independently
+S025	2	school_a	9	computing	definition_question	0	none	Y	3	2	0	Identified error in AI output independently
+S026	2	school_a	9	computing	problem_solving	1	autism_adhd	Y	2	1	1	Paused and reread before writing
+S027	2	school_a	10	maths	calculation	0	none	Y	1	2	1	Copied from phone directly
+S028	2	school_a	10	science	short_answer	1	dyslexia	Y	3	1	2	Used AI as starting point, significantly expanded and modified
+S029	2	school_a	11	business	definition_question	1	dyslexia_adhd	Y	2	1	1	Paused mid-copy, re-read, continued
+S030	3	school_b	7	maths	problem_solving	1	dyslexia	Y	3	2	2	Rewrote answer entirely in own words after reading AI output
+S031	3	school_b	7	science	calculation	0	none	Y	1	1	1	Shared AI answer with peer, both copied
+S032	3	school_b	7	maths	short_answer	0	none	Y	1	2	0	Copied from phone directly
+S033	3	school_b	8	science	short_answer	0	none	N	1	2	1	Asked peer for help, no AI
+S034	3	school_b	10	science	definition_question	0	none	N	1	1	1	No AI observed â€” worked independently
+S035	3	school_b	10	maths	calculation	0	none	Y	2	0	1	Reread answer, changed subject-specific vocabulary
+S036	3	school_a	8	maths	calculation	1	autism_adhd	Y	3	2	2	Asked peer to check AI answer before submitting
+S037	3	school_a	8	computing	explain_concept	1	autism	Y	3	2	2	Rewrote answer entirely in own words after reading AI output
+S038	3	school_a	8	science	definition_question	1	dyslexia	N	1	0	0	No AI observed â€” worked independently
+S039	3	school_a	8	maths	problem_solving	0	none	?	2	2	1	Reread answer, changed subject-specific vocabulary
+S040	3	school_a	10	science	calculation	0	none	Y	2	1	1	Compared two AI responses briefly before choosing one
+S041	3	school_a	11	computing	problem_solving	1	adhd	Y	2	0	2	Paused and reread before writing
+S042	4	school_b	7	science	definition_question	1	dyslexia	N	2	0	0	Used notes from class
+S043	4	school_b	7	computing	definition_question	0	none	Y	2	1	2	Paused and reread before writing
+S044	4	school_b	9	computing	problem_solving	0	none	Y	2	2	1	Looked uncertain, re-read twice before writing
+S045	4	school_b	9	maths	calculation	0	none	N	2	1	1	No AI used â€” textbook only
+S046	4	school_b	11	science	explain_concept	1	autism_adhd	Y	2	2	2	Reread answer, changed subject-specific vocabulary
+S047	4	school_a	7	maths	problem_solving	1	autism	N	3	1	2	Used notes from class
+S048	4	school_a	7	maths	calculation	0	none	N	1	1	2	Asked peer for help, no AI
+S049	4	school_a	8	computing	explain_concept	0	none	Y	1	1	1	Used Google then copied first result
+S050	4	school_a	8	maths	problem_solving	0	none	N	1	2	0	No AI used â€” textbook only
+S051	4	school_a	8	science	explain_concept	1	autism	N	1	2	0	No AI observed â€” worked independently
+S052	4	school_a	8	computing	definition_question	0	none	Y	1	2	2	Used Google then copied first result
+S053	4	school_a	9	computing	short_answer	0	none	N	3	2	2	No AI used â€” textbook only
+S054	4	school_a	10	science	short_answer	1	autism	Y	2	0	1	Reread answer, changed subject-specific vocabulary
+S055	4	school_a	10	science	short_answer	0	none	N	1	2	1	No AI used â€” textbook only
+S056	4	school_a	10	maths	short_answer	1	dyslexia	N	3	1	2	Used notes from class
+S057	4	school_a	10	computing	problem_solving	1	adhd	N	1	2	0	Used notes from class
+S058	4	school_a	11	business	definition_question	0	none	Y	2	2	2	Changed a few words in AI answer before submitting
+S059	5	school_b	8	maths	problem_solving	1	adhd	Y	1	1	0	Shared AI answer with peer, both copied
+S060	5	school_b	9	maths	calculation	1	adhd	N	2	1	1	No AI used â€” textbook only
+S061	5	school_b	9	computing	problem_solving	1	dyslexia_adhd	Y	2	1	1	Changed a few words in AI answer before submitting
+S062	5	school_b	10	business	definition_question	0	none	N	1	1	1	Used notes from class
+S063	5	school_a	7	maths	short_answer	1	adhd	N	1	0	2	Asked peer for help, no AI
+S064	5	school_a	8	maths	problem_solving	1	autism	Y	1	0	1	Shared AI answer with peer, both copied
+S065	5	school_a	8	maths	calculation	1	autism	N	2	2	1	Asked peer for help, no AI
+S066	5	school_a	8	science	short_answer	1	autism_adhd	N	1	2	0	No AI used â€” textbook only
+S067	5	school_a	9	maths	short_answer	1	dyslexia	Y	1	2	1	Used Google then copied first result
+S068	5	school_a	9	computing	explain_concept	1	adhd	N	1	1	0	Used notes from class
+S069	5	school_a	9	computing	definition_question	0	none	Y	2	2	1	Changed a few words in AI answer before submitting
+S070	5	school_a	9	science	short_answer	1	autism	Y	3	1	1	Compared AI answer to textbook, noted discrepancy
+S071	5	school_a	9	computing	definition_question	0	none	Y	3	2	2	Questioned AI answer verbally, looked for second source
+S072	5	school_a	10	computing	problem_solving	0	none	N	2	1	1	No AI observed â€” worked independently
+S073	5	school_a	10	computing	short_answer	1	autism_adhd	N	1	0	0	No AI observed â€” worked independently
