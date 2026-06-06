@@ -186,25 +186,4 @@ figures/
 - Non-verbal students used a printed pointing card
 - No formal IRB review — non-interventional naturalistic study. Any scaled version would require full ethics approval.
 
----
-
-## Connection to Doctoral Research
-
-This pilot study directly informs a research interest in engineering education at the intersection of AI, student agency, and assessment design — specifically whether assessment formats can be redesigned to make student reasoning visible rather than just final outputs.
-
-It forms part of an application to the PhD position *"Rethinking Electrical Engineering Education in the Age of AI"* at TU Delft's Electrical Engineering Education section (Faculty of EEMCS).
-
----
-
-## How to Reproduce
-
-1. Open [Google Colab](https://colab.research.google.com)
-2. Open `notebook/analysis.ipynb`
-3. Run cells top to bottom — data is embedded, no file uploads needed
-
----
-
-## Citation
-
-> Sarkar, S.D. (2026). *AI Agency in Student Learning: A Pilot Observation Study*. Independent research, Liverpool, UK. https://github.com/Shweta-Portfolio/ai-agency-student-learning
 
